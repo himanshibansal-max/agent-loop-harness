@@ -1,0 +1,378 @@
+{
+  "guidelines:56048cf1a9077904b780f1a4037b817f9f8ece6b3cb2f4a83e511cd1007b62e7": {
+    "timesheet_policy": {
+      "daily_hours": 8,
+      "weekly_hours": 40,
+      "weekend_logging_requires_approval": true,
+      "weekend_notes": "Discouraged; must inform team; only for production support or critical go-live"
+    }
+  },
+  "guidelines:ae38f4f1b66cd03f6ce30f454bc82dac900bd60ef7bc1daec25c7fb58315cff2": {
+    "leave_policy": {
+      "annual_entitlement_days": 24,
+      "carry_forward_max": 5,
+      "encashment_max": 20,
+      "half_day_threshold_hours": 4,
+      "max_consecutive_days": 15
+    }
+  },
+  "guidelines:054572f747bc25c0cf492b28336371ad934e176a37b70ca180a8fe3b2a1a778b": {
+    "holidays": {
+      "fixed": [
+        {
+          "date": "2026-01-26",
+          "name": "Republic Day"
+        },
+        {
+          "date": "2026-03-03",
+          "name": "Holi"
+        },
+        {
+          "date": "2026-05-01",
+          "name": "International Workers Day / Maharashtra Day"
+        },
+        {
+          "date": "2026-06-26",
+          "name": "Muharram / Ashura"
+        },
+        {
+          "date": "2026-09-14",
+          "name": "Ganesh Chaturthi"
+        },
+        {
+          "date": "2026-10-02",
+          "name": "Gandhi Jayanti"
+        },
+        {
+          "date": "2026-11-06",
+          "name": "Dhanteras"
+        },
+        {
+          "date": "2026-12-25",
+          "name": "Christmas Day"
+        }
+      ],
+      "optional": [
+        {
+          "date": "2026-01-01",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-01-14",
+          "name": "Makar Sankranti / Pongal / Magha Bihu"
+        },
+        {
+          "date": "2026-03-19",
+          "name": "Ugadi / Gudi Padwa"
+        },
+        {
+          "date": "2026-04-03",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2026-04-14",
+          "name": "Vaisakhi / Vishu / Meshadi"
+        },
+        {
+          "date": "2026-07-24",
+          "name": "Aise hi"
+        },
+        {
+          "date": "2026-08-25",
+          "name": "Eid e Milad"
+        },
+        {
+          "date": "2026-08-28",
+          "name": "Raksha Bandhan"
+        },
+        {
+          "date": "2026-09-04",
+          "name": "Janmashtami"
+        },
+        {
+          "date": "2026-09-25",
+          "name": "Ganesh Visarjan"
+        },
+        {
+          "date": "2026-10-20",
+          "name": "Dussehra"
+        },
+        {
+          "date": "2026-11-09",
+          "name": "Govardhan Puja"
+        },
+        {
+          "date": "2026-12-31",
+          "name": "New Years Eve"
+        }
+      ],
+      "optional_allowance": 2,
+      "eligibility_months": 6
+    }
+  },
+  "guidelines:f2cc0ddb4758d79fe083bf226c4fa59bde43bd1a2bfbed1541ff6fb723a2d013": {
+    "leave_policy": {
+      "bereavement_days": 5,
+      "bereavement_family": "Immediate family (grandparents, parents, siblings, spouse, children) and in-laws"
+    }
+  },
+  "sow:af36348dd2a19b783693022d95335a0ad7a69d57b0ce79270d2a07d6fd40b54c": {
+    "sow_reference": "TG-SOW-2026-003",
+    "project_name_raw": "Wellnest Wellnest Notify",
+    "client": "Wellnest Notify Inc.",
+    "start_date": "2026-01-01",
+    "end_date": "2026-03-25",
+    "currency": "USD",
+    "payment_terms": "Net 30 from invoice date",
+    "resources": [
+      {
+        "name": "Mahesh Lal",
+        "role": "Principal Consultant",
+        "rate": 100.0,
+        "allocation_pct": 10.0,
+        "hours_per_month": 16
+      },
+      {
+        "name": "Pathik",
+        "role": "Senior Consultant",
+        "rate": 65.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Priyanka M.",
+        "role": "Technology Consultant",
+        "rate": 55.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      }
+    ]
+  },
+  "sow:3e7b058311d0742e337a6d1c3d93ec93c99dd2c4b2ed712ccc45460201010d9d": {
+    "sow_reference": "TG-SOW-2026-008",
+    "project_name_raw": "SummitCapital Admin Migration",
+    "client": "Summit Capital Partners",
+    "start_date": "2026-01-01",
+    "end_date": "2026-03-22",
+    "currency": "USD",
+    "payment_terms": "Net 30 from invoice date",
+    "resources": [
+      {
+        "name": "Mahesh Lal",
+        "role": "Principal Consultant",
+        "rate": 85.0,
+        "allocation_pct": 10.0,
+        "hours_per_month": 16
+      },
+      {
+        "name": "Imraan",
+        "role": "Senior Consultant",
+        "rate": 55.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Prachi",
+        "role": "Technology Consultant",
+        "rate": 45.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Shubam",
+        "role": "Technology Consultant",
+        "rate": 45.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      }
+    ]
+  },
+  "sow:6e4c73706dc2c70753d1b932109ed396fc4e5ccc0070b8125ec2d2502235c71c": {
+    "sow_reference": "TG-SOW-2026-005",
+    "project_name_raw": "Mobiscape - Data Protection",
+    "client": "Mobiscape Technologies",
+    "start_date": "2026-02-01",
+    "end_date": "2026-03-22",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "resources": [
+      {
+        "name": "Mahesh Lal",
+        "role": "Principal Consultant",
+        "rate": 100.0,
+        "allocation_pct": 15.0,
+        "hours_per_month": 24
+      },
+      {
+        "name": "Utkarsh R.",
+        "role": "Technology Consultant",
+        "rate": 55.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      }
+    ]
+  },
+  "sow:265d011cad516c13c7e535c1301e3012f7784a9fa84f4dab5ab7bc74a751257b": {
+    "sow_reference": "TG-SOW-2026-014",
+    "project_name_raw": "Quotera CPQ Platform",
+    "client": "Quotera Inc.",
+    "start_date": "2026-02-01",
+    "end_date": "2026-06-30",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "resources": [
+      {
+        "name": "Mahesh Lal",
+        "role": "Principal Consultant",
+        "rate": 85.0,
+        "allocation_pct": 20.0,
+        "hours_per_month": 32
+      },
+      {
+        "name": "Mayank D.",
+        "role": "Senior Consultant",
+        "rate": 55.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Navsheel",
+        "role": "Senior Consultant",
+        "rate": 55.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Sounak",
+        "role": "Senior Consultant",
+        "rate": 55.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Chaitrali",
+        "role": "Technology Consultant",
+        "rate": 45.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Aalay",
+        "role": "Technology Consultant",
+        "rate": 45.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Pranay",
+        "role": "Technology Consultant",
+        "rate": 45.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      }
+    ]
+  },
+  "sow:70dab0ab70944930a80cb074dd8c91fcfba7173cec56e5c2dd2c66050ddc9aaf": {
+    "sow_reference": "TG-SOW-2026-017",
+    "project_name_raw": "Parcelly Shipping Squad",
+    "client": "Parcelly Pty Ltd",
+    "start_date": "2026-01-01",
+    "end_date": "2026-03-22",
+    "currency": "USD",
+    "payment_terms": "Net 30 from invoice date",
+    "resources": [
+      {
+        "name": "Rishabh A.",
+        "role": "Technology Consultant",
+        "rate": 45.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      }
+    ]
+  },
+  "sow:eb015021bdaff12a3b937cf9f47263817ea2615823355583aa0ba1dd24b8edf1": {
+    "sow_reference": "TG-SOW-2026-011",
+    "project_name_raw": "Team Beach - Internal L&D",
+    "client": "Brightwave Labs (Internal)",
+    "start_date": "2026-01-01",
+    "end_date": "2026-03-25",
+    "currency": "USD",
+    "payment_terms": "Net 30 from invoice date",
+    "resources": [
+      {
+        "name": "Saroj",
+        "role": "Lead Consultant",
+        "rate": 50.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Satyam",
+        "role": "Technology Consultant",
+        "rate": 35.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Atharv",
+        "role": "Technology Consultant",
+        "rate": 35.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Sakshi",
+        "role": "Technology Consultant",
+        "rate": 35.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Animesh",
+        "role": "Technology Consultant",
+        "rate": 35.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      }
+    ]
+  },
+  "sow:527ec2c026beb76b2560002483fc45b0db28600e5dbd875c82bde0bc99d403d1": {
+    "sow_reference": "TG-SOW-2026-009",
+    "project_name_raw": "The Ledger - Ad Revenue",
+    "client": "The Ledger Group",
+    "start_date": "2026-01-01",
+    "end_date": "2026-06-30",
+    "currency": "USD",
+    "payment_terms": "Net 30",
+    "resources": [
+      {
+        "name": "Mahesh Lal",
+        "role": "Principal Consultant",
+        "rate": 100.0,
+        "allocation_pct": 15.0,
+        "hours_per_month": 24
+      },
+      {
+        "name": "Ashutosh",
+        "role": "Lead Consultant",
+        "rate": 80.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Rahul K.",
+        "role": "Technology Consultant",
+        "rate": 55.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      },
+      {
+        "name": "Saagar",
+        "role": "Technology Consultant",
+        "rate": 55.0,
+        "allocation_pct": 100.0,
+        "hours_per_month": 160
+      }
+    ]
+  }
+}

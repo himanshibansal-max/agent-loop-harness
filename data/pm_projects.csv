@@ -1,0 +1,19 @@
+name,customer,budget_hours,budget_cost,end_date,status
+AI Workshops,Brightwave Labs,300,24000,2026-12-31,active
+Nimbus Ether,Nimbus,800,60000,2026-12-31,active
+Wellnest Notify,Wellnest,300,23250,2026-08-31,active
+Mobiscape - Apple Stream,Mobiscape,250,18750,2026-09-30,active
+Mobiscape - PII/PHI Detection,Mobiscape,150,11250,2026-09-30,active
+Summit Capital - Main,Summit,500,37500,2026-12-31,active
+Summit Capital - Sprout Stream,Summit,350,26250,2026-12-31,active
+Summit Capital - Migration Admin Apps,Summit,400,32000,2026-12-31,active
+Ledger - Ads,Ledger,600,45000,2026-12-31,active
+Ledger - In Life,Ledger,400,30000,2026-12-31,active
+Team Beach,Brightwave Labs,200,14000,2026-06-30,active
+Bettercroft - CRM,Bettercroft,1500,135000,2026-12-31,active
+Bettercroft - Java Upgrade,Bettercroft,400,30000,2026-09-30,active
+Quotera,Quotera,800,60000,2026-12-31,active
+Canvara Archway,Archway,300,21000,2026-12-31,active
+Kredora,Kredora,500,40000,2026-12-31,active
+Parcelly - Shipping Squad,Parcelly,200,15000,2026-09-30,active
+Parcelly - Rate Card,Parcelly,250,18750,2026-09-30,active

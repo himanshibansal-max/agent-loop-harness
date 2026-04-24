@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "timesheet-tools": {
+      "command": "python3",
+      "args": ["mcp_tools/server.py"]
+    }
+  }
+}

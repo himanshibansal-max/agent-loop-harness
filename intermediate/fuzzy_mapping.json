@@ -1,0 +1,340 @@
+{
+  "project_map": {
+    "Canvara Archway K8s Migration": "Canvara Archway",
+    "Kredora Payments & Rewards": "Kredora",
+    "The Ledger - Ad Revenue": "Ledger - Ads",
+    "Ledger InLife Retention": "Ledger - In Life",
+    "Bettercroft CRM Transformation": "Bettercroft - CRM",
+    "Bettercroft Cashier JDK Migration": "Bettercroft - Java Upgrade",
+    "Wellnest Wellnest Notify": "Wellnest Notify",
+    "SummitCapital Portfolio Platform": "Summit Capital - Main",
+    "SummitCapital Admin Migration": "Summit Capital - Migration Admin Apps",
+    "Summit Capital Sprout Data Intelligence": "Summit Capital - Sprout Stream",
+    "Mobiscape - Apple MDM": "Mobiscape - Apple Stream",
+    "Mobiscape - Data Protection": "Mobiscape - PII/PHI Detection",
+    "Quotera CPQ Platform": "Quotera",
+    "Parcelly Rate System": "Parcelly - Rate Card",
+    "Parcelly Shipping Squad": "Parcelly - Shipping Squad",
+    "Team Beach - Internal L&D": "Team Beach",
+    "Nimbus - Ether Platform": "Nimbus Ether",
+    "Wellnest": "Wellnest Notify",
+    "Summit Capital": "Summit Capital - Main",
+    "SummitCapital": "Summit Capital - Main",
+    "Ledger - Ad Revenue": "Ledger - Ads",
+    "Ledger InLife": "Ledger - In Life",
+    "Bettercroft JDK": "Bettercroft - Java Upgrade",
+    "Bettercroft CRM": "Bettercroft - CRM",
+    "Mobiscape Apple": "Mobiscape - Apple Stream",
+    "Mobiscape Data Protection": "Mobiscape - PII/PHI Detection",
+    "Mobiscape PII": "Mobiscape - PII/PHI Detection",
+    "Canvara": "Canvara Archway"
+  },
+  "resource_map": {
+    "TG-SOW-2026-016|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name match; in hr_assignments for multiple projects"
+    },
+    "TG-SOW-2026-016|Riyaaz Kagzi": {
+      "username": "riyaz.kagzi",
+      "confidence": 0.93,
+      "notes": "Riyaaz->Riyaz spelling variant; in hr_assignments Kredora"
+    },
+    "TG-SOW-2026-016|Manish K. Lath": {
+      "username": "manish.lath",
+      "confidence": 0.96,
+      "notes": "K. is middle initial; exact surname; in hr_assignments Kredora"
+    },
+    "TG-SOW-2026-016|Gaurav S.": {
+      "username": "gaurav.shewale",
+      "confidence": 0.9,
+      "notes": "S initial matches Shewale; only Gaurav with S surname in Kredora hr_assignments"
+    },
+    "TG-SOW-2026-015|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name; prominent role across multiple projects"
+    },
+    "TG-SOW-2026-010|Santhosh": {
+      "username": "santosh.mudavat",
+      "confidence": 0.9,
+      "notes": "Santhosh->Santosh variant; in hr_assignments Ledger - In Life"
+    },
+    "TG-SOW-2026-010|Rekha": {
+      "username": "rekha.kumari",
+      "confidence": 0.95,
+      "notes": "Only Rekha in hr_assignments; assigned to Ledger - In Life"
+    },
+    "TG-SOW-2026-012|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name; in hr_assignments Bettercroft - CRM"
+    },
+    "TG-SOW-2026-012|Pranav": {
+      "username": "pranav",
+      "confidence": 0.97,
+      "notes": "Exact single name; in hr_assignments Bettercroft - CRM"
+    },
+    "TG-SOW-2026-012|Saagar": {
+      "username": "sagar.sahasrabuddhe",
+      "confidence": 0.88,
+      "notes": "Saagar->Sagar variant; sagar.sahasrabuddhe in Bettercroft - CRM; sagar.yadav in Ledger only"
+    },
+    "TG-SOW-2026-012|Abhishek T.": {
+      "username": "abhishek",
+      "confidence": 0.93,
+      "notes": "Only Abhishek in system; T initial unverified but single candidate"
+    },
+    "TG-SOW-2026-012|Hrishabh": {
+      "username": "hrishabh",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Bettercroft - CRM"
+    },
+    "TG-SOW-2026-012|Jay P.": {
+      "username": "jay",
+      "confidence": 0.93,
+      "notes": "Only Jay in system; in hr_assignments Bettercroft - CRM"
+    },
+    "TG-SOW-2026-012|Sahil": {
+      "username": "sahil",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Bettercroft - CRM"
+    },
+    "TG-SOW-2026-012|Pranjal": {
+      "username": "pranjal",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Bettercroft - CRM"
+    },
+    "TG-SOW-2026-012|Tushar": {
+      "username": "tushar.mahajan",
+      "confidence": 0.95,
+      "notes": "Only Tushar in system; in hr_assignments Bettercroft - CRM"
+    },
+    "TG-SOW-2026-012|Neel": {
+      "username": "neel.chavan",
+      "confidence": 0.95,
+      "notes": "Only Neel in system; in hr_assignments Bettercroft - CRM"
+    },
+    "TG-SOW-2026-013|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name"
+    },
+    "TG-SOW-2026-013|Prathamesh": {
+      "username": "prathamesh",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Bettercroft - Java Upgrade"
+    },
+    "TG-SOW-2026-013|Omkar": {
+      "username": "onkar.date",
+      "confidence": 0.65,
+      "notes": "Omkar vs Onkar - different but similar Indian names; only other member in hr_assignments Bettercroft - Java Upgrade; possible SOW transcription error"
+    },
+    "TG-SOW-2026-006|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name"
+    },
+    "TG-SOW-2026-006|Ajitem": {
+      "username": "ajitem.sahasrabuddhe",
+      "confidence": 0.97,
+      "notes": "Exact first name; only Ajitem in system; in hr_assignments Summit Capital - Main"
+    },
+    "TG-SOW-2026-006|Sounak": {
+      "username": "saunak.adhikari",
+      "confidence": 0.85,
+      "notes": "Sounak->Saunak spelling variant; in hr_assignments Summit Capital - Main"
+    },
+    "TG-SOW-2026-007|Anish Anil": {
+      "username": "aneesh.anil",
+      "confidence": 0.88,
+      "notes": "Anish->Aneesh variant; Anil surname matches; in hr_assignments Summit Capital - Sprout Stream"
+    },
+    "TG-SOW-2026-007|Mayur B.": {
+      "username": "mayur.barge",
+      "confidence": 0.95,
+      "notes": "B initial matches Barge; only Mayur; in hr_assignments Summit Capital - Sprout Stream"
+    },
+    "TG-SOW-2026-004|Abhimanyu S.": {
+      "username": "abhimanyu.patil",
+      "confidence": 0.8,
+      "notes": "Only Abhimanyu in system; S initial does not match Patil - may be middle name or SOW error; in hr_assignments Mobiscape - Apple Stream"
+    },
+    "TG-SOW-2026-004|Adithya": {
+      "username": "aditya",
+      "confidence": 0.92,
+      "notes": "Adithya->Aditya variant; only Aditya in system; in hr_assignments Mobiscape - Apple Stream"
+    },
+    "TG-SOW-2026-018|Nayyab": {
+      "username": "nayab",
+      "confidence": 0.93,
+      "notes": "Nayyab->Nayab variant; in hr_assignments Parcelly - Rate Card"
+    },
+    "TG-SOW-2026-018|Gaurav": {
+      "username": "gaurav",
+      "confidence": 0.95,
+      "notes": "Exact; in hr_assignments Parcelly - Rate Card (username=gaurav)"
+    },
+    "TG-SOW-2026-002|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name"
+    },
+    "TG-SOW-2026-002|Shrayas": {
+      "username": "shreyas.barhanpurkar",
+      "confidence": 0.88,
+      "notes": "Shrayas->Shreyas variant; in hr_assignments Nimbus Ether"
+    },
+    "TG-SOW-2026-002|Vinit": {
+      "username": "vineet.singhal",
+      "confidence": 0.87,
+      "notes": "Vinit->Vineet variant; in hr_assignments Nimbus Ether"
+    },
+    "TG-SOW-2026-002|Nupoor": {
+      "username": "nupur.banakar",
+      "confidence": 0.9,
+      "notes": "Nupoor->Nupur variant; in hr_assignments Nimbus Ether"
+    },
+    "TG-SOW-2026-002|Vivek": {
+      "username": "vivek.agrawal",
+      "confidence": 0.95,
+      "notes": "Only Vivek in system; in hr_assignments Nimbus Ether"
+    },
+    "TG-SOW-2026-002|Shrikant": {
+      "username": "shreekant",
+      "confidence": 0.88,
+      "notes": "Shrikant->Shreekant variant; in hr_assignments Nimbus Ether"
+    },
+    "TG-SOW-2026-003|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name"
+    },
+    "TG-SOW-2026-003|Pathik": {
+      "username": "pathik.gandhi",
+      "confidence": 0.97,
+      "notes": "Exact first name; only Pathik in system; in hr_assignments Wellnest Notify"
+    },
+    "TG-SOW-2026-003|Priyanka M.": {
+      "username": "priyanka.pakhale",
+      "confidence": 0.82,
+      "notes": "Only Priyanka in system; M initial unverified vs Pakhale; in hr_assignments Wellnest Notify"
+    },
+    "TG-SOW-2026-008|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name"
+    },
+    "TG-SOW-2026-008|Imraan": {
+      "username": "imran",
+      "confidence": 0.9,
+      "notes": "Imraan->Imran variant; in hr_assignments Summit Capital - Migration Admin Apps"
+    },
+    "TG-SOW-2026-008|Prachi": {
+      "username": "prachi",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Summit Capital - Migration Admin Apps"
+    },
+    "TG-SOW-2026-008|Shubam": {
+      "username": "shubham.shukla",
+      "confidence": 0.88,
+      "notes": "Shubam->Shubham variant; in hr_assignments Summit Capital - Migration Admin Apps"
+    },
+    "TG-SOW-2026-005|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name"
+    },
+    "TG-SOW-2026-005|Utkarsh R.": {
+      "username": "utkarsh.srivastava",
+      "confidence": 0.85,
+      "notes": "Only Utkarsh in system; R initial may be middle name; in hr_assignments Mobiscape - PII/PHI Detection"
+    },
+    "TG-SOW-2026-014|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name"
+    },
+    "TG-SOW-2026-014|Mayank D.": {
+      "username": "mayank.dhanwade",
+      "confidence": 0.95,
+      "notes": "D matches Dhanwade; only Mayank; in hr_assignments Quotera"
+    },
+    "TG-SOW-2026-014|Navsheel": {
+      "username": "navsheel.biral",
+      "confidence": 0.97,
+      "notes": "Exact first name; in hr_assignments Quotera"
+    },
+    "TG-SOW-2026-014|Sounak": {
+      "username": "saunak.adhikari",
+      "confidence": 0.85,
+      "notes": "Sounak->Saunak variant; in hr_assignments Quotera"
+    },
+    "TG-SOW-2026-014|Chaitrali": {
+      "username": "chaitrali",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Quotera"
+    },
+    "TG-SOW-2026-014|Aalay": {
+      "username": "allay",
+      "confidence": 0.88,
+      "notes": "Aalay->Allay variant; in hr_assignments Quotera"
+    },
+    "TG-SOW-2026-014|Pranay": {
+      "username": "pranay",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Quotera"
+    },
+    "TG-SOW-2026-017|Rishabh A.": {
+      "username": "rishabh.a",
+      "confidence": 0.97,
+      "notes": "A initial matches username suffix; in hr_assignments Parcelly - Shipping Squad"
+    },
+    "TG-SOW-2026-011|Saroj": {
+      "username": "saroj",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Team Beach"
+    },
+    "TG-SOW-2026-011|Satyam": {
+      "username": "satyam",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Team Beach"
+    },
+    "TG-SOW-2026-011|Atharv": {
+      "username": "atharva.farkade",
+      "confidence": 0.9,
+      "notes": "Atharv->Atharva variant; in hr_assignments Team Beach"
+    },
+    "TG-SOW-2026-011|Sakshi": {
+      "username": "sakshi",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Team Beach"
+    },
+    "TG-SOW-2026-011|Animesh": {
+      "username": "animesh",
+      "confidence": 0.97,
+      "notes": "Exact; in hr_assignments Team Beach"
+    },
+    "TG-SOW-2026-009|Mahesh Lal": {
+      "username": "mahesh.lal",
+      "confidence": 0.97,
+      "notes": "Exact name"
+    },
+    "TG-SOW-2026-009|Ashutosh": {
+      "username": "ashutosh.salodkar",
+      "confidence": 0.97,
+      "notes": "Exact first name; only Ashutosh; in hr_assignments Ledger - Ads"
+    },
+    "TG-SOW-2026-009|Rahul K.": {
+      "username": "rahul.dhuri",
+      "confidence": 0.78,
+      "notes": "Only Rahul in system; K initial does not match Dhuri; may be middle initial or SOW error; in hr_assignments Ledger - Ads"
+    },
+    "TG-SOW-2026-009|Saagar": {
+      "username": "sagar.yadav",
+      "confidence": 0.7,
+      "notes": "Saagar ambiguous: both sagar.yadav and sagar.sahasrabuddhe in Ledger - Ads hr_assignments; sagar.sahasrabuddhe likely committed to Bettercroft CRM (100%), so sagar.yadav preferred"
+    }
+  },
+  "saved_at": "2026-04-13T15:32:05.655664Z"
+}

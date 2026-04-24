@@ -1,0 +1,195 @@
+user,date,title,leave_type,all_day,status
+deepak,2026-03-09,Planned Leave,sick_leave,True,confirmed
+deepak,2026-03-10,Planned Leave,sick_leave,True,confirmed
+sankalp,2026-03-24,Planned Leave,vacation,True,confirmed
+deepak,2026-03-02,Half Day Leave,half_day,False,confirmed
+deepak,2026-03-27,Leaving Early,half_day,False,confirmed
+sankalp,2026-03-18,Half Day,half_day,False,confirmed
+sumit,2026-03-06,Half Day,half_day,False,confirmed
+sumit,2026-03-09,Leaving Early,half_day,False,confirmed
+sumit,2026-03-18,Half Day,half_day,False,confirmed
+sidharth,2026-03-06,Half Day Leave,half_day,False,confirmed
+sidharth,2026-03-23,Leaving Early,half_day,False,confirmed
+pranav,2026-03-02,Half Day,half_day,False,confirmed
+pranav,2026-03-04,Half Day Leave,half_day,False,confirmed
+pranav,2026-03-10,Half Day,half_day,False,confirmed
+shreyas.barhanpurkar,2026-03-30,Half Day,half_day,False,confirmed
+vineet.singhal,2026-03-02,Half Day,half_day,False,confirmed
+vineet.singhal,2026-03-12,Half Day,half_day,False,confirmed
+nupur.banakar,2026-03-11,Half Day Leave,half_day,False,confirmed
+shreekant,2026-03-17,Half Day Leave,half_day,False,confirmed
+shreekant,2026-03-20,Half Day Leave,half_day,False,confirmed
+shreekant,2026-03-27,Half Day Leave,half_day,False,confirmed
+shreekant,2026-03-30,Half Day,half_day,False,confirmed
+pathik.gandhi,2026-03-13,Half Day,half_day,False,confirmed
+abhimanyu.patil,2026-03-02,Half Day Leave,half_day,False,confirmed
+abhimanyu.patil,2026-03-10,Leaving Early,half_day,False,confirmed
+abhimanyu.patil,2026-03-26,Half Day,half_day,False,confirmed
+aditya,2026-03-09,Leaving Early,half_day,False,confirmed
+aditya,2026-03-13,Half Day,half_day,False,confirmed
+aditya,2026-03-30,Half Day,half_day,False,confirmed
+utkarsh.srivastava,2026-03-18,Half Day Leave,half_day,False,confirmed
+utkarsh.srivastava,2026-03-27,Leaving Early,half_day,False,confirmed
+ajitem.sahasrabuddhe,2026-03-27,Half Day,half_day,False,confirmed
+saunak.adhikari,2026-03-23,Half Day,half_day,False,confirmed
+saunak.adhikari,2026-03-24,Half Day Leave,half_day,False,confirmed
+aneesh.anil,2026-03-25,Half Day,half_day,False,confirmed
+prachi,2026-03-04,Leaving Early,half_day,False,confirmed
+ashutosh.salodkar,2026-03-11,Leaving Early,half_day,False,confirmed
+rahul.dhuri,2026-03-02,Half Day Leave,half_day,False,confirmed
+rahul.dhuri,2026-03-17,Leaving Early,half_day,False,confirmed
+rekha.kumari,2026-03-20,Leaving Early,half_day,False,confirmed
+saroj,2026-03-23,Half Day,half_day,False,confirmed
+sakshi,2026-03-31,Half Day,half_day,False,confirmed
+mahesh.lal,2026-03-24,Leaving Early,half_day,False,confirmed
+abhishek,2026-03-05,Leaving Early,half_day,False,confirmed
+abhishek,2026-03-31,Half Day,half_day,False,confirmed
+hrishabh,2026-03-17,Half Day Leave,half_day,False,confirmed
+hrishabh,2026-03-20,Leaving Early,half_day,False,confirmed
+sahil,2026-03-05,Half Day,half_day,False,confirmed
+sahil,2026-03-17,Half Day,half_day,False,confirmed
+sahil,2026-03-23,Half Day,half_day,False,confirmed
+sahil,2026-03-30,Half Day Leave,half_day,False,confirmed
+tushar.mahajan,2026-03-18,Half Day Leave,half_day,False,confirmed
+tushar.mahajan,2026-03-23,Half Day,half_day,False,confirmed
+onkar.date,2026-03-13,Half Day,half_day,False,confirmed
+mayank.dhanwade,2026-03-12,Half Day Leave,half_day,False,confirmed
+mayank.dhanwade,2026-03-24,Half Day,half_day,False,confirmed
+mayank.dhanwade,2026-03-27,Half Day,half_day,False,confirmed
+navsheel.biral,2026-03-20,Half Day Leave,half_day,False,confirmed
+chaitrali,2026-03-25,Leaving Early,half_day,False,confirmed
+allay,2026-03-25,Leaving Early,half_day,False,confirmed
+allay,2026-03-26,Half Day Leave,half_day,False,confirmed
+pranay,2026-03-05,Leaving Early,half_day,False,confirmed
+riyaz.kagzi,2026-03-20,Half Day,half_day,False,confirmed
+manish.lath,2026-03-02,Half Day Leave,half_day,False,confirmed
+manish.lath,2026-03-04,Half Day Leave,half_day,False,confirmed
+manish.lath,2026-03-09,Leaving Early,half_day,False,confirmed
+manish.lath,2026-03-10,Leaving Early,half_day,False,confirmed
+manish.lath,2026-03-25,Leaving Early,half_day,False,confirmed
+manish.lath,2026-03-26,Half Day,half_day,False,confirmed
+gaurav.shewale,2026-03-18,Leaving Early,half_day,False,confirmed
+gaurav.shewale,2026-03-26,Half Day,half_day,False,confirmed
+gaurav.shewale,2026-03-31,Leaving Early,half_day,False,confirmed
+rishabh.a,2026-03-25,Half Day Leave,half_day,False,confirmed
+rishabh.a,2026-03-30,Leaving Early,half_day,False,confirmed
+nayab,2026-03-12,Half Day,half_day,False,confirmed
+rajat.tomar,2026-03-31,Half Day Leave,half_day,False,confirmed
+arihant.hirawat,2026-03-31,Half Day,half_day,False,confirmed
+deepak,2026-03-25,Personal Day,personal,True,confirmed
+sankalp,2026-03-03,Bereavement Leave,bereavement,True,tentative
+sankalp,2026-03-16,Personal Leave,personal,True,confirmed
+sumit,2026-03-02,Sick Leave,sick,True,tentative
+sumit,2026-03-13,Family Emergency,bereavement,True,confirmed
+sumit,2026-03-20,Sick Leave,sick,True,confirmed
+sumit,2026-03-26,Medical Leave,sick,True,confirmed
+sidharth,2026-03-03,Unwell,sick,False,confirmed
+vishnu.nair,2026-03-11,Planned Leave,planned,True,confirmed
+pranav,2026-03-25,Sick Leave,sick,False,confirmed
+shreyas.barhanpurkar,2026-03-04,Medical Leave,sick,False,tentative
+shreyas.barhanpurkar,2026-03-12,Vacation,planned,True,confirmed
+shreyas.barhanpurkar,2026-03-25,Personal Day,personal,False,tentative
+nupur.banakar,2026-03-13,Sick Leave,sick,False,confirmed
+nupur.banakar,2026-03-19,Personal Leave,personal,True,confirmed
+nupur.banakar,2026-03-25,Sick Leave,sick,True,confirmed
+vivek.agrawal,2026-03-06,PTO,planned,False,tentative
+vivek.agrawal,2026-03-16,Vacation,planned,False,confirmed
+vivek.agrawal,2026-03-20,Sick Leave,sick,True,confirmed
+vivek.agrawal,2026-03-26,Medical Leave,sick,True,confirmed
+shreekant,2026-03-02,Vacation,planned,True,tentative
+shreekant,2026-03-12,Vacation,planned,True,confirmed
+pathik.gandhi,2026-03-12,Personal Day,personal,True,confirmed
+pathik.gandhi,2026-03-16,Annual Leave,planned,True,confirmed
+priyanka.pakhale,2026-03-05,Personal Day,personal,False,tentative
+priyanka.pakhale,2026-03-20,Unwell,sick,True,confirmed
+abhimanyu.patil,2026-03-09,Sick Leave,sick,True,confirmed
+abhimanyu.patil,2026-03-11,Medical Leave,sick,True,confirmed
+abhimanyu.patil,2026-03-16,Family Emergency,bereavement,False,confirmed
+abhimanyu.patil,2026-03-30,Vacation,planned,False,confirmed
+aditya,2026-03-18,Sick Leave,sick,False,confirmed
+aditya,2026-03-27,Personal Leave,personal,True,tentative
+utkarsh.srivastava,2026-03-03,Vacation,planned,True,tentative
+utkarsh.srivastava,2026-03-04,PTO,planned,True,confirmed
+utkarsh.srivastava,2026-03-13,Unwell,sick,True,confirmed
+utkarsh.srivastava,2026-03-25,Bereavement Leave,bereavement,True,confirmed
+ajitem.sahasrabuddhe,2026-03-11,Medical Leave,sick,False,confirmed
+saunak.adhikari,2026-03-02,Personal Leave,personal,True,confirmed
+saunak.adhikari,2026-03-05,Medical Leave,sick,True,confirmed
+saunak.adhikari,2026-03-06,Bereavement Leave,bereavement,True,confirmed
+saunak.adhikari,2026-03-30,Medical Leave,sick,False,tentative
+prachi,2026-03-20,PTO,planned,False,tentative
+prachi,2026-03-30,Annual Leave,planned,True,confirmed
+ashutosh.salodkar,2026-03-13,Sick Leave,sick,False,confirmed
+ashutosh.salodkar,2026-03-18,Personal Leave,personal,True,tentative
+ashutosh.salodkar,2026-03-19,Personal Day,personal,True,tentative
+ashutosh.salodkar,2026-03-23,Sick Leave,sick,True,confirmed
+ashutosh.salodkar,2026-03-26,Personal Day,personal,False,tentative
+rahul.dhuri,2026-03-24,Sick Leave,sick,True,confirmed
+sagar.sahasrabuddhe,2026-03-09,Personal Day,personal,True,confirmed
+santosh.mudavat,2026-03-12,Unwell,sick,False,tentative
+santosh.mudavat,2026-03-13,Medical Leave,sick,False,confirmed
+santosh.mudavat,2026-03-17,Unwell,sick,False,confirmed
+santosh.mudavat,2026-03-20,Personal Day,personal,False,confirmed
+rekha.kumari,2026-03-17,Sick Leave,sick,False,tentative
+rekha.kumari,2026-03-18,Unwell,sick,False,confirmed
+saroj,2026-03-06,Unwell,sick,True,confirmed
+saroj,2026-03-13,Personal Leave,personal,True,confirmed
+saroj,2026-03-16,Personal Day,personal,True,confirmed
+saroj,2026-03-27,Personal Leave,personal,True,confirmed
+satyam,2026-03-17,Vacation,planned,True,confirmed
+satyam,2026-03-23,Unwell,sick,True,tentative
+sakshi,2026-03-02,Medical Leave,sick,True,confirmed
+sakshi,2026-03-30,Sick Leave,sick,True,confirmed
+mahesh.lal,2026-03-10,Medical Leave,sick,True,confirmed
+mahesh.lal,2026-03-13,Annual Leave,planned,True,confirmed
+mahesh.lal,2026-03-16,Bereavement Leave,bereavement,True,tentative
+mahesh.lal,2026-03-20,Medical Leave,sick,True,confirmed
+mahesh.lal,2026-03-25,Personal Leave,personal,True,tentative
+mahesh.lal,2026-03-31,Vacation,planned,True,confirmed
+abhishek,2026-03-09,Personal Day,personal,False,confirmed
+abhishek,2026-03-18,Planned Leave,planned,True,tentative
+jay,2026-03-02,Personal Leave,personal,True,confirmed
+jay,2026-03-10,Unwell,sick,True,confirmed
+jay,2026-03-18,Medical Leave,sick,False,confirmed
+jay,2026-03-24,Unwell,sick,False,confirmed
+sahil,2026-03-04,Vacation,planned,True,tentative
+sahil,2026-03-16,Unwell,sick,True,tentative
+sahil,2026-03-31,Medical Leave,sick,True,confirmed
+pranjal,2026-03-11,Bereavement Leave,bereavement,True,tentative
+tushar.mahajan,2026-03-02,Personal Day,personal,False,tentative
+tushar.mahajan,2026-03-05,Vacation,planned,True,confirmed
+tushar.mahajan,2026-03-19,Planned Leave,planned,False,confirmed
+neel.chavan,2026-03-23,Personal Day,personal,False,confirmed
+neel.chavan,2026-03-24,Sick Leave,sick,True,tentative
+prathamesh,2026-03-10,Medical Leave,sick,True,confirmed
+prathamesh,2026-03-24,Personal Day,personal,True,confirmed
+onkar.date,2026-03-17,PTO,planned,True,confirmed
+onkar.date,2026-03-20,Medical Leave,sick,True,confirmed
+navsheel.biral,2026-03-03,Personal Day,personal,True,confirmed
+navsheel.biral,2026-03-04,Medical Leave,sick,True,confirmed
+navsheel.biral,2026-03-09,Sick Leave,sick,True,confirmed
+navsheel.biral,2026-03-12,Personal Day,personal,True,confirmed
+navsheel.biral,2026-03-24,Annual Leave,planned,True,tentative
+chaitrali,2026-03-31,Medical Leave,sick,True,confirmed
+allay,2026-03-06,Unwell,sick,True,confirmed
+allay,2026-03-10,Unwell,sick,True,confirmed
+riyaz.kagzi,2026-03-02,Medical Leave,sick,False,tentative
+riyaz.kagzi,2026-03-05,Medical Leave,sick,True,confirmed
+riyaz.kagzi,2026-03-26,Medical Leave,sick,True,confirmed
+gaurav.shewale,2026-03-02,Personal Leave,personal,True,confirmed
+gaurav.shewale,2026-03-03,Personal Leave,personal,True,confirmed
+gaurav.shewale,2026-03-06,PTO,planned,True,confirmed
+gaurav.shewale,2026-03-09,Bereavement Leave,bereavement,False,confirmed
+gaurav.shewale,2026-03-23,Personal Leave,personal,False,tentative
+rishabh.a,2026-03-26,Sick Leave,sick,True,confirmed
+rishabh.a,2026-03-31,Medical Leave,sick,False,confirmed
+nayab,2026-03-09,Family Emergency,bereavement,True,confirmed
+nayab,2026-03-19,Personal Leave,personal,True,tentative
+nayab,2026-03-26,Unwell,sick,True,tentative
+nayab,2026-03-27,Unwell,sick,True,confirmed
+nayab,2026-03-31,Personal Leave,personal,False,tentative
+sagar.yadav,2026-03-20,Medical Leave,sick,False,tentative
+rajat.tomar,2026-03-04,Personal Day,personal,True,confirmed
+rajat.tomar,2026-03-16,Sick Leave,sick,True,tentative
+arihant.hirawat,2026-03-05,Family Emergency,bereavement,True,confirmed
+arihant.hirawat,2026-03-16,Sick Leave,sick,False,confirmed
